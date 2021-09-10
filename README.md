@@ -1,6 +1,6 @@
 # Heart-Attack-Prediction-Using-Machine-Learning.
 
-This machine learning project aimed to predict if a patient is highly likely to have a heart attack based on his/her demographic and health information, which includes the following:
+This machine learning project aimed to predict if a patient is highly likely to have a heart attack based on his/her demographic and health information, which includes the following:-
 
 Age
 
