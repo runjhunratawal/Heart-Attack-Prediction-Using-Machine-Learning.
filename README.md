@@ -22,5 +22,8 @@ This is a machine learning project aimed to predict if a patient is highly likel
 
 This project made use of Gaussian Naive Bayes and Logistic Regression models in predicting the output which is whether a patient will have a heart attack or not. The two models were then compared for their accuracy and f1-scores to check which model performs best in predicting the results for each individual.
 
+The Data is taken from: https://www.kaggle.com/rashikrahmanpritom/heart-attack-analysis-prediction-dataset
+
+
 # About the Author -
 This project is a collaboration between Runjhun Ratawal from India, and Shaira Lapus from the Philippines.
